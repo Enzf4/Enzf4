@@ -1,4 +1,6 @@
-<h1 align="center">Hello World 👋, I'm Enzo<br><br>A curious student passionate about technology.</h1>
+<img align="center" src="Hello.png">
+
+<h1 align="center">A curious student passionate about technology.</h1>
 
 <h3>
 
