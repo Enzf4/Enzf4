@@ -16,10 +16,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://dev.to/enzf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="enzf4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/enzofariasrego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzofariasrego" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/enzf4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="enzf4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/enzf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="enzf4" height="30" width="40" /></a>
+<a href="https://dev.to/enzf4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="enzf4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enzofariasrego" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzofariasrego" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/enzf4" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="enzf4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/enzf4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="enzf4" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
