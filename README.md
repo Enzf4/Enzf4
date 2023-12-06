@@ -1,5 +1,15 @@
-<a href="https://github.com/Enzf4"><img src="Hello.png" alt="Hello Dark" class="theme-dark"></a>
-<a href="https://github.com/Enzf4"><img src="HelloLight.png" alt="Hello Light" class="theme-light"></a>
+<a href="https://github.com/Enzf4"><img src="HelloLight.png" alt="Hello Light" id="themeImage"></a>
+
+<script>
+  const image = document.getElementById("themeImage");
+
+  // Verifica o tema atual e troca dinamicamente a imagem
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    image.src = "Hello.png"; // Modo escuro
+  } else {
+    image.src = "HelloLight.png"; // Modo claro
+  }
+</script>
 
 <h1 align="center">A curious student passionate about technology.</h1>
 
@@ -25,3 +35,5 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p></h3>
+
+
