@@ -1,15 +1,7 @@
-<a href="https://github.com/Enzf4"><img src="HelloLight.png" alt="Hello Light" id="themeImage"></a>
-
-<script>
-  const image = document.getElementById("themeImage");
-
-  // Verifica o tema atual e troca dinamicamente a imagem
-  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    image.src = "Hello.png"; // Modo escuro
-  } else {
-    image.src = "HelloLight.png"; // Modo claro
-  }
-</script>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Hello.png">
+  <source media="(prefers-color-scheme: light)" srcset="HelloLight.png">
+</picture>
 
 <h1 align="center">A curious student passionate about technology.</h1>
 
