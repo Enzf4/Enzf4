@@ -1,4 +1,5 @@
-<a href="https://github.com/Enzf4"><img align="center" src="Hello.png"></a>
+<a href="https://github.com/Enzf4"><img src="Hello.png" alt="Hello Dark" class="theme-dark"></a>
+<a href="https://github.com/Enzf4"><img src="HelloLight.png" alt="Hello Light" class="theme-light"></a>
 
 <h1 align="center">A curious student passionate about technology.</h1>
 
