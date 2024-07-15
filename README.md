@@ -8,7 +8,7 @@
 
 - 🔭 Looking for opportunities **to apply and improve my technical skills.**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, C# and SQL**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **enzo.farias.r@gmail.com**
 
